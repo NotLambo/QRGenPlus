@@ -11,7 +11,7 @@ function LandingPage() {
     setShowQR(!showQR)
   }
   return (
-    <section className='p-2' id="landingpage">
+    <section className='py-10' id="landingpage">
       <h1 className='text-4xl font-semibold text-center'>
         <span className='text-4xl font-semibold text-center text-accent'>Scan</span>,
         Connect, and Experience!
