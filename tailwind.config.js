@@ -9,9 +9,9 @@ export default {
     extend: {
       colors: {
         textColor: '#070d0d',
-        primary: '#274244',
+        primary: '#E3651D',
         secondary: '#d5e6e7',
-        accent: '#579498',
+        accent: '#F78E20',
         secondaryTextColor: '#ecf3f4',
         backgroundColor: '#ecf3f4'
       },
